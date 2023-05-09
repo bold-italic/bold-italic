@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I'm Sergey 👋
 
-<!--
-**bold-italic/bold-italic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Full Stack Web Development at the Red River College Polytech.
 
-Here are some ideas to get you started:
+## Languages and tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-DC143C.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=FFDD54)
+![Flask](https://img.shields.io/badge/-Flask-00000F.svg?style=flat&logo=flask&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-00000F.svg?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0DB7ED.svg?style=flat&logo=docker&logoColor=white)
