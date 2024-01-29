@@ -1,6 +1,6 @@
 ## Hi, I'm Sergey 👋
 
-I'm currently studying Full Stack Web Development at the Red River College Polytech.
+I am a student of the Full Stack Web Development program at Red River College Polytech.
 
 ## Languages and tools:
 
@@ -9,8 +9,11 @@ I'm currently studying Full Stack Web Development at the Red River College Polyt
 ![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-20232A.svg?style=flat&logo=nextdotjs&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material--UI-0081CB.svg?style=flat&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=MongoDB&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-DC143C.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=FFDD54)
 ![Flask](https://img.shields.io/badge/-Flask-00000F.svg?style=flat&logo=flask&logoColor=white)
