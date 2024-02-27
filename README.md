@@ -1,6 +1,6 @@
 ## Hi, I'm Sergey 👋
 
-I'm a persistent and forever learning Full Stack Web Developer.
+I'm a dedicated Full Stack Web Developer, always learning and evolving.
 
 ## Languages and tools:
 
