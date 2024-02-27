@@ -11,6 +11,7 @@ I am a student of the Full Stack Web Development program at Red River College Po
 ![React](https://img.shields.io/badge/-React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-20232A.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB.svg?style=flat&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra--UI-4ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=MongoDB&logoColor=white)
