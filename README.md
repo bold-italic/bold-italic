@@ -1,6 +1,6 @@
 ## Hi, I'm Sergey 👋
 
-I am a student of the Full Stack Web Development program at Red River College Polytech.
+I'm a persistent and forever learning Full Stack Web Developer.
 
 ## Languages and tools:
 
